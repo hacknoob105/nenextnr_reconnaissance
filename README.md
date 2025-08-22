@@ -1,4 +1,4 @@
-# NextNR (OneMan Recon Tool)
+# NextNR (Recon Tool)
 
 NextNR is a simple Python tool made for recon and bug bounty hunting.  
 It collects useful information about a target in one place so you don’t need to run many tools separately.
